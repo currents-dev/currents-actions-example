@@ -13,6 +13,14 @@ This is a simple example Playwright test project, that shows the different ways 
   - runs playwright tests
   - applied automation rules during the run
   - sends results to the Currents dashboard
+ 
+## Rules Creation
+
+Rules are created in the Currents Dashboard (see https://docs.currents.dev/guides/automation-rules#creating-rules-in-currents for more info)
+
+<img width="1306" alt="Screenshot 2024-12-10 at 3 22 45 PM" src="https://github.com/user-attachments/assets/d150c645-7b6d-448c-b1a8-31934cf0b460" />
+
+<img width="873" alt="Screenshot 2024-12-10 at 3 27 00 PM" src="https://github.com/user-attachments/assets/75e1165c-f973-4d73-8056-db9dc2a1da4f" />
 
 ## Examples
 
