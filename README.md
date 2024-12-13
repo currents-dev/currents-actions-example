@@ -18,9 +18,9 @@ This is a simple example Playwright test project, that shows the different ways 
 
 Actions are created in the Currents Dashboard (see https://docs.currents.dev/guides/automation-rules#creating-rules-in-currents for more info)
 
-<img width="1306" alt="Screenshot 2024-12-10 at 3 22 45 PM" src="https://github.com/user-attachments/assets/d150c645-7b6d-448c-b1a8-31934cf0b460" />
+![actions-show](https://github.com/user-attachments/assets/24b16c4a-cf77-42fd-a91d-eda8cb93e88d)
 
-<img width="873" alt="Screenshot 2024-12-10 at 3 27 00 PM" src="https://github.com/user-attachments/assets/75e1165c-f973-4d73-8056-db9dc2a1da4f" />
+![create-action](https://github.com/user-attachments/assets/64c53638-0bee-4257-b521-ef840e525ae7)
 
 ## Examples
 
