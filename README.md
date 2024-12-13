@@ -1,8 +1,8 @@
-# Currents Automation Rules with Playwright
+# Currents Actions with Playwright
 
-Playwright [Automation Rules](https://docs.currents.dev/guides/automation-rules) for Currents.
+[Currents Actions](https://docs.currents.dev/guides/currents-actions) for Playwright.
 
-This is a simple example Playwright test project, that shows the different ways to configure the Currents Playwright fixtures to apply Rule Automation.
+This is a simple example Playwright test project, that shows the different ways to configure the Currents Playwright fixtures to apply Actions.
 
 
 ## Setup
@@ -11,12 +11,12 @@ This is a simple example Playwright test project, that shows the different ways 
 - Update `playwright.config.ts` with Currents [record key](https://docs.currents.dev/guides/record-key) and [project id](https://docs.currents.dev/dashboard/projects/project-settings)
 - Run `npm run test` for running tests, behind the scenes:
   - runs playwright tests
-  - applied automation rules during the run
+  - applied Currents Actions during the run
   - sends results to the Currents dashboard
  
-## Rules Creation
+## Actions Creation
 
-Rules are created in the Currents Dashboard (see https://docs.currents.dev/guides/automation-rules#creating-rules-in-currents for more info)
+Actions are created in the Currents Dashboard (see https://docs.currents.dev/guides/automation-rules#creating-rules-in-currents for more info)
 
 <img width="1306" alt="Screenshot 2024-12-10 at 3 22 45 PM" src="https://github.com/user-attachments/assets/d150c645-7b6d-448c-b1a8-31934cf0b460" />
 
@@ -24,7 +24,7 @@ Rules are created in the Currents Dashboard (see https://docs.currents.dev/guide
 
 ## Examples
 
-- Run `npm run test:reporter` for using [`playwight test`](https://docs.currents.dev/getting-started/playwright/you-first-playwright-run#using-reporter-configuration) command with Currents loaded as a reporter
+- Run `npm run test` for using [`playwight test`](https://docs.currents.dev/getting-started/playwright/you-first-playwright-run#using-reporter-configuration) command with Currents loaded as a reporter
 - Run `npm run test:pwc` for using [`pwc`](https://docs.currents.dev/getting-started/playwright/you-first-playwright-run#using-the-cli) command
 - Run `npm run test:pwc-p` for [orchestrated](https://docs.currents.dev/guides/parallelization-guide/pw-parallelization/playwright-orchestration) runs
 
