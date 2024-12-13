@@ -24,7 +24,7 @@ Actions are created in the Currents Dashboard (see https://docs.currents.dev/gui
 
 ## Examples
 
-- Run `npm run test:reporter` for using [`playwight test`](https://docs.currents.dev/getting-started/playwright/you-first-playwright-run#using-reporter-configuration) command with Currents loaded as a reporter
+- Run `npm run test` for using [`playwight test`](https://docs.currents.dev/getting-started/playwright/you-first-playwright-run#using-reporter-configuration) command with Currents loaded as a reporter
 - Run `npm run test:pwc` for using [`pwc`](https://docs.currents.dev/getting-started/playwright/you-first-playwright-run#using-the-cli) command
 - Run `npm run test:pwc-p` for [orchestrated](https://docs.currents.dev/guides/parallelization-guide/pw-parallelization/playwright-orchestration) runs
 
